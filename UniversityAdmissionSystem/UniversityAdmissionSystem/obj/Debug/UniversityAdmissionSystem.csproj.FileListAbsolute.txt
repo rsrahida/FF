@@ -1,0 +1,12 @@
+C:\Users\Jasur Eynullayev\source\repos\UniversityAdmissionSystem\UniversityAdmissionSystem\bin\Debug\UniversityAdmissionSystem.exe.config
+C:\Users\Jasur Eynullayev\source\repos\UniversityAdmissionSystem\UniversityAdmissionSystem\bin\Debug\UniversityAdmissionSystem.exe
+C:\Users\Jasur Eynullayev\source\repos\UniversityAdmissionSystem\UniversityAdmissionSystem\bin\Debug\UniversityAdmissionSystem.pdb
+C:\Users\Jasur Eynullayev\source\repos\UniversityAdmissionSystem\UniversityAdmissionSystem\obj\Debug\UniversityAdmissionSystem.csproj.AssemblyReference.cache
+C:\Users\Jasur Eynullayev\source\repos\UniversityAdmissionSystem\UniversityAdmissionSystem\obj\Debug\UniversityAdmissionSystem.Properties.Resources.resources
+C:\Users\Jasur Eynullayev\source\repos\UniversityAdmissionSystem\UniversityAdmissionSystem\obj\Debug\UniversityAdmissionSystem.csproj.GenerateResource.cache
+C:\Users\Jasur Eynullayev\source\repos\UniversityAdmissionSystem\UniversityAdmissionSystem\obj\Debug\UniversityAdmissionSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jasur Eynullayev\source\repos\UniversityAdmissionSystem\UniversityAdmissionSystem\obj\Debug\UniversityAdmissionSystem.exe
+C:\Users\Jasur Eynullayev\source\repos\UniversityAdmissionSystem\UniversityAdmissionSystem\obj\Debug\UniversityAdmissionSystem.pdb
+C:\Users\Jasur Eynullayev\source\repos\UniversityAdmissionSystem\UniversityAdmissionSystem\obj\Debug\UniversityAdmissionSystem.StudentRegistration.resources
+C:\Users\Jasur Eynullayev\source\repos\UniversityAdmissionSystem\UniversityAdmissionSystem\obj\Debug\UniversityAdmissionSystem.StudentInformation.resources
+C:\Users\Jasur Eynullayev\source\repos\UniversityAdmissionSystem\UniversityAdmissionSystem\obj\Debug\UniversityAdmissionSystem.AdminPanel.resources
